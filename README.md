@@ -19,7 +19,7 @@
 <img height="50" src="https://santrikoding.com/storage/categories/MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png">
 </code>
 
-![Yan Afriyoko Github Stats](https://github-readme-stats.vercel.app/api?username=yanafriyokolabs&show_icons=true&hide_border=true)
+![Ammar Hanif Fauzan Github Stats](https://github-readme-stats.vercel.app/api?username=ammarhaniffauzan&show_icons=true&hide_border=true)
 
 ***********************************
 
