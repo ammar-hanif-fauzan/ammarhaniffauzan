@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Hanif Fauzan</h1>
 <h3 align="center">A Software Engineer 🚀 from Indonesia</h3>
 
-- 🔭 I’m currently working on [Bratamedia Digital Creative Agency](https://bratamedia.com)
+- 🔭 I’m currently working on [Nine Dragon Labs](https://ninedragonlabs.com)
 
 - 👨‍💻 Portfolio at [Here](https://github.com/ammarhaniffauzan/portofolio/blob/main/README.md)
 
