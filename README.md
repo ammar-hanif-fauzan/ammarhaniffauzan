@@ -16,7 +16,6 @@
 
 <img height="50" src="https://santrikoding.com/storage/categories/iQMUiiTkloCSiqk3lSwpWtxnGqYjbfABjX2tAlHM.png">
 
-<img height="50" src="https://santrikoding.com/storage/categories/MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png">
 </code>
 
 ![Ammar Hanif Fauzan Github Stats](https://github-readme-stats.vercel.app/api?username=ammarhaniffauzan&show_icons=true&hide_border=true)
